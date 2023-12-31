@@ -8,7 +8,7 @@ Test Teardown   Close Web Test
 
 *** Variables ***
 ${BROWSER} =        chrome
-${LANDING_URL} =    https://automationplayground.com/front-office/
+${FRONTOFFICE_URL} =    https://automationplayground.com/front-office/
 
 *** Test Cases ***
 Should be able to access "Team" page
